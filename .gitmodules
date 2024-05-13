@@ -1,0 +1,3 @@
+[submodule "path-to-submodule"]
+	path = newpath1
+	url = https://github.com/marcindev10/testrepo1.git
